@@ -1,4 +1,4 @@
-name: Xiaochen
+name: ci
 
 on:
   workflow_dispatch:
